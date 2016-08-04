@@ -1,0 +1,40 @@
+_repo: Tales-from-Shakespeare_573
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lamb, Mary
+    alias: Lamb, Mary Ann
+    birthdate: 1764
+    deathdate: 1847
+    gutenberg_agent_id: '294'
+    url: http://www.gutenberg.org/2009/agents/294
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Lamb
+  - agent_name: Lamb, Charles
+    birthdate: 1775
+    deathdate: 1834
+    gutenberg_agent_id: '293'
+    url: http://www.gutenberg.org/2009/agents/293
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lamb
+description: ''
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Stories, plots, etc. -- Juvenile literature'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Adaptations'
+- !lcc 'PZ'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The tempest -- A midsummer night's dream -- The winter's tale --
+  Much ado about nothing -- As you like it -- The two gentlemen of Verona -- The merchant
+  of Venice -- Cymbeline -- King Lear -- Macbeth -- All's well that ends well -- The
+  taming of the shrew -- The comedy of errors -- Measure for measure -- Twelfth night;
+  or, what you will -- Timon of Athens -- Romeo and Juliet -- Hamlet, Prince of Denmark
+  -- Othello -- Pericles, Prince of Tyre.
+title: Tales from Shakespeare
+url: http://www.gutenberg.org/ebooks/573
